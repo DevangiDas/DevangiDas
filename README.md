@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-development and machine_learning
 - 🌱 I’m currently learning backend-web-dev
 - 💞️ I’m looking to collaborate on projects involing web-dev or ml
-- 📫 How to reach me 
+- 📫 you can reach me via email "devangiofficial@gmail.com" 
 
 <!---
 DevangiDas/DevangiDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
