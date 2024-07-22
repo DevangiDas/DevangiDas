@@ -3,7 +3,7 @@
 -🌱 Currently I'm learning Node.js and Typescript. 
 -💞 I'm interested in working with others on web development projects, particularly those including the MERN stack. 
 -📫My email address is "devangiofficial@gmail.com".
-_📜At present I've completed my training in JAVA and WEB Technologies at Techacademy Platform.
+-📜At present I've completed my training in JAVA and WEB Technologies at Techacademy Platform.
 
 <!---
 DevangiDas/DevangiDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
